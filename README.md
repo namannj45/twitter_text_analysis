@@ -1,10 +1,11 @@
-Sentiment Analysis with NLTK
+**Sentiment Analysis with NLTK**
+
 This project aims to perform sentiment analysis on Twitter data using the NLTK (Natural Language Toolkit) library in Python.
 
-Overview
+**Overview**
 Sentiment analysis is the process of determining the sentiment (positive, negative, or neutral) of a piece of text. In this project, we use the NLTK library to analyze tweets from the Sentiment140 dataset, which contains 1.6 million tweets labeled with sentiment polarity (0 for negative and 4 for positive).
 
-Requirements
+**Requirements**
 To run the code in this project, you will need:
 
 Python 3.x
